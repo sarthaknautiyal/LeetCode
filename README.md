@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarthaknautiyal/LeetCode/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/sarthaknautiyal/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
