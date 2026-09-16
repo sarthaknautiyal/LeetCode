@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0680-valid-palindrome-ii](https://github.com/sarthaknautiyal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -31,9 +32,14 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarthaknautiyal/LeetCode/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/sarthaknautiyal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sarthaknautiyal/LeetCode/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarthaknautiyal/LeetCode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/sarthaknautiyal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
