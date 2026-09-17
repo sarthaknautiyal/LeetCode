@@ -11,6 +11,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarthaknautiyal/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthaknautiyal/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,12 +36,14 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarthaknautiyal/LeetCode/tree/master/0041-first-missing-positive) |
+| [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarthaknautiyal/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/sarthaknautiyal/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarthaknautiyal/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
 ## String
 |  |
 | ------- |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sarthaknautiyal/LeetCode/tree/master/0881-boats-to-save-people) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
