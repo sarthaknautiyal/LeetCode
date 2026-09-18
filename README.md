@@ -21,6 +21,7 @@
 | [0881-boats-to-save-people](https://github.com/sarthaknautiyal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarthaknautiyal/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/sarthaknautiyal/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthaknautiyal/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -51,6 +52,7 @@
 | [0412-fizz-buzz](https://github.com/sarthaknautiyal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/sarthaknautiyal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sarthaknautiyal/LeetCode/tree/master/0709-to-lower-case) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/sarthaknautiyal/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Simulation
 |  |
 | ------- |
