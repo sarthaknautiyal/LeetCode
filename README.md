@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarthaknautiyal/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sarthaknautiyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/sarthaknautiyal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthaknautiyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sarthaknautiyal/LeetCode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/sarthaknautiyal/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarthaknautiyal/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sarthaknautiyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sarthaknautiyal/LeetCode/tree/master/0242-valid-anagram) |
 | [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Math
@@ -50,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthaknautiyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sarthaknautiyal/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthaknautiyal/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/sarthaknautiyal/LeetCode/tree/master/0412-fizz-buzz) |
