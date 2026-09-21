@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/sarthaknautiyal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarthaknautiyal/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthaknautiyal/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
