@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/sarthaknautiyal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sarthaknautiyal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarthaknautiyal/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthaknautiyal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarthaknautiyal/LeetCode/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sarthaknautiyal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/sarthaknautiyal/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sarthaknautiyal/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2963-count-the-number-of-good-partitions](https://github.com/sarthaknautiyal/LeetCode/tree/master/2963-count-the-number-of-good-partitions) |
